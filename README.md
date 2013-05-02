@@ -1,3 +1,9 @@
+Obsolete. *DO NOT USE*. See this instead:
+
+* http://calormen.com/polyfill/#polyfill
+
+... which I'll try to put up on GitHub soon.
+
 Inspired by:
 
 * http://paulirish.com/2011/requestanimationframe-for-smart-animating/
